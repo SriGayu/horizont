@@ -1,2 +1,2 @@
-# horizont
+# horizontal
 Created with CodeSandbox
